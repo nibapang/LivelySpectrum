@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "1gu-AB-AD4"; */
+"1gu-AB-AD4.text" = "Loading...";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "BVt-37-ZT0"; */
+"BVt-37-ZT0.title" = "Item 2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dy6-iS-Pfm"; */
+"Dy6-iS-Pfm.text" = "Label";
+
+/* Class = "UITextView"; text = "Lively Spectrum is an innovative Emotion-to-Color Converter that translates your moods into visually expressive colors and gradients. Whether you’re a designer, artist, or just exploring color psychology, this app allows you to interact with color palettes inspired by emotions.\n\nWith a sleek and futuristic UI, SpatraCon ensures easy navigation, making it an ideal tool for students, space enthusiasts, and educators.\n\n\n🛠️ How to Use:\n\n1️⃣ Select an Emotion – Tap on the dropdown menu and choose how you feel.\n2️⃣ View Suggested Colors – The app will display a color palette corresponding to your selected emotion.\n3️⃣ Customize the Gradient – Use the Edit button to fine-tune gradient positions (X, Y, Start, End).\n4️⃣ Apply & Experiment – Select individual colors or a gradient, and apply them in real-time.\n5️⃣ Save or Share – Use the generated palette in your projects, mood boards, or designs.\n\n\n🎨 Benefits:\n\n✅ Enhance Creativity – Generate emotion-based palettes for UI/UX, artwork, or fashion.\n✅ Personalized Experience – Customize gradients to match your style or brand.\n✅ Intuitive UI – Simple and easy-to-use design for quick mood-to-color conversion.\n✅ Scientific & Cultural Insights – Learn how colors are perceived differently across cultures.\n✅ Save & Reuse – Keep your favorite combinations and apply them later."; ObjectID = "FFk-6R-mMV"; */
+"FFk-6R-mMV.text" = "Lively Spectrum is an innovative Emotion-to-Color Converter that translates your moods into visually expressive colors and gradients. Whether you’re a designer, artist, or just exploring color psychology, this app allows you to interact with color palettes inspired by emotions.\n\nWith a sleek and futuristic UI, SpatraCon ensures easy navigation, making it an ideal tool for students, space enthusiasts, and educators.\n\n\n🛠️ How to Use:\n\n1️⃣ Select an Emotion – Tap on the dropdown menu and choose how you feel.\n2️⃣ View Suggested Colors – The app will display a color palette corresponding to your selected emotion.\n3️⃣ Customize the Gradient – Use the Edit button to fine-tune gradient positions (X, Y, Start, End).\n4️⃣ Apply & Experiment – Select individual colors or a gradient, and apply them in real-time.\n5️⃣ Save or Share – Use the generated palette in your projects, mood boards, or designs.\n\n\n🎨 Benefits:\n\n✅ Enhance Creativity – Generate emotion-based palettes for UI/UX, artwork, or fashion.\n✅ Personalized Experience – Customize gradients to match your style or brand.\n✅ Intuitive UI – Simple and easy-to-use design for quick mood-to-color conversion.\n✅ Scientific & Cultural Insights – Learn how colors are perceived differently across cultures.\n✅ Save & Reuse – Keep your favorite combinations and apply them later.";
+
+/* Class = "UILabel"; text = " Emotion to Color Converter"; ObjectID = "HnP-Q5-yJe"; */
+"HnP-Q5-yJe.text" = " Emotion to Color Converter";
+
+/* Class = "UILabel"; text = " Emotion to Color Converter"; ObjectID = "Wlo-Jc-Geo"; */
+"Wlo-Jc-Geo.text" = " Emotion to Color Converter";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "gKe-Hl-JSI"; */
+"gKe-Hl-JSI.normalTitle" = "START";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "qCQ-GE-p9a"; */
+"qCQ-GE-p9a.title" = "Item 1";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "vaU-7F-Q56"; */
+"vaU-7F-Q56.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = " Emotion to Color Converter"; ObjectID = "x0w-GS-cYB"; */
+"x0w-GS-cYB.text" = " Emotion to Color Converter";
